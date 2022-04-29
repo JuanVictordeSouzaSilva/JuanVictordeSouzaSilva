@@ -14,8 +14,8 @@
 <div> 
   <a href = "mailto:juanvictordesouzasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juan-victor-a6416520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+##
+ <p align="center">👁️Profile views👁️</p>
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/JuanVictordeSouzaSilva/count.svg" /></p>
 </div>
-    
-</body>
-</html>
+   
